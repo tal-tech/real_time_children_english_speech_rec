@@ -1,0 +1,1 @@
+real_time_children_english_speech_rec/res/GEN-Eng-0-STU/HCLG.fst http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Freal_time_children_english_speech_rec%2Fres%2FGEN-Eng-0-STU%2FHCLG.fst?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1697553084&Signature=%2BgCRWDkHb1fss40u7W10Oa2iImU%3D
